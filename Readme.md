@@ -1,14 +1,18 @@
+
+
 # Classification of Kannada MNIST 
 
-In this repository, I try to explore linear and non linear classification methods to classify Kannada MNIST which is akin to MNIST database. 
+This repository explores linear and non linear classification methods to classify Kannada MNIST dataset which is akin to MNIST database. 
 
 ## Classification algorithms
+Comparison of the accuracies of the following algorithms
 
 1. LDA
 2. SVM
-3. Deeplearning methods
-    a. Neural nets
+3. Deeplearning
+    a. Neural nets - deep vs shallow
     b. Convolutional neural nets
+    c. LeNet
     
 ## References
 
