@@ -2,7 +2,7 @@
 
 # Classification of Kannada MNIST 
 
-This repository explores linear and non linear classification methods to classify Kannada MNIST dataset which is akin to MNIST database. 
+This repository explores linear and non linear classification methods to classify Kannada MNIST dataset which is akin to original MNIST. 
 
 ## Classification algorithms
 Comparison of the accuracies of the following algorithms
